@@ -1,2 +1,3 @@
 # CodeChef
-CodeChef related  
+CodeChef problems
+just for fun
