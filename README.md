@@ -1,3 +1,3 @@
 # CodeChef
-CodeChef problems
+Code Chef problems
 just for fun
